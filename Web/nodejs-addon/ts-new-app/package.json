@@ -53,7 +53,7 @@
     "@electron-forge/maker-zip": "6.0.0-beta.53",
     "@typescript-eslint/eslint-plugin": "^2.18.0",
     "@typescript-eslint/parser": "^2.18.0",
-    "electron": "10.1.0",
+    "electron": "10.2.0",
     "eslint": "^7.6.0",
     "eslint-plugin-import": "^2.20.0",
     "typescript": "^4.0.2"
